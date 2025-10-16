@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div>
         {/* Navigation Links */}
-        <nav style={{ background: "#eee", padding: "10px" }}>
+        <nav style={{ background: "#aae2f4ff", padding: "10px" }}>
           <Link to="/" style={{ margin: "10px" }}>Home</Link>
           <Link to="/courses" style={{ margin: "10px" }}>Courses</Link>
           <Link to="/contact" style={{ margin: "10px" }}>Contact</Link>
